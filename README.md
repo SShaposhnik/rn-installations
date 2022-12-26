@@ -50,7 +50,7 @@ brew install --cask zulu11
 
 ## Install cocoapods
 ##### Make sure you have Rosetta installed.
-This is going to eventually not be a requirement, but I’d give it another couple of years before that’s realistically the case. softwareupdate --install-rosetta
+This is going to eventually not be a requirement, but I’d give it another couple of years before that’s realistically the case. __softwareupdate --install-rosetta__
 
 
 ##### Install homebrew.
