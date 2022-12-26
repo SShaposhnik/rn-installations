@@ -1,11 +1,13 @@
 
-### Install homebrew
+## Install homebrew
 
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-### Install iterm2
+----------------
+
+## Install iterm2
 
 ```
 brew install --cask iterm2
@@ -46,7 +48,7 @@ brew install --cask zulu11
 
 ----------------
 
-# Install cocoapods
+## Install cocoapods
 ##### Make sure you have Rosetta installed.
 This is going to eventually not be a requirement, but I’d give it another couple of years before that’s realistically the case. softwareupdate --install-rosetta
 
