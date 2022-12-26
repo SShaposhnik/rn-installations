@@ -7,18 +7,9 @@
 
 ### Install iterm2
 
-install iterm2 app
 ```
 brew install --cask iterm2
-```
-
-install zsh
-```
 brew install zsh
-```
-
-install oh-my-zsh
-```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
@@ -53,7 +44,7 @@ brew install --cask zulu11
 
 ----------------
 
-# __Install cocoapods__
+# Install cocoapods
 ##### Make sure you have Rosetta installed.
 This is going to eventually not be a requirement, but I’d give it another couple of years before that’s realistically the case. softwareupdate --install-rosetta
 
