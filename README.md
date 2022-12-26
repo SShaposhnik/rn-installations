@@ -19,6 +19,8 @@ $ cd Downloads
 $ curl -O https://raw.githubusercontent.com/MartinSeeler/iterm2-material-design/master/material-design-colors.itermcolors
 ```
 
+Profiles => colors tab => import...
+
 ----------------
 
 ## Install flipper
