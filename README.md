@@ -46,6 +46,10 @@ brew install --cask zulu11
 /Users/user_name/Library/Android/sdk
 ```
 
+#### UNIVERSAL BUILD
+```
+https://github.com/chiragramani/FlipperReleases
+```
 ----------------
 
 ## Install cocoapods
