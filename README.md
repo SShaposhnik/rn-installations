@@ -54,7 +54,10 @@ https://github.com/chiragramani/FlipperReleases
 
 ## Install cocoapods
 ##### Make sure you have Rosetta installed.
-This is going to eventually not be a requirement, but I’d give it another couple of years before that’s realistically the case. __softwareupdate --install-rosetta__
+This is going to eventually not be a requirement, but I’d give it another couple of years before that’s realistically the case
+```
+softwareupdate --install-rosetta
+```
 
 
 ##### Install homebrew.
@@ -63,5 +66,9 @@ While there are ways around this, I think that it’s in every developer’s int
 ##### Finally, get your Cocoapods!
 
 Just in case you did a mess before, uninstall whatever you did previously by running sudo __gem uninstall cocoapods__ and then __brew install cocoapods__.
+```
+gem uninstall cocoapods
+brew install cocoapods
+```
 
 
