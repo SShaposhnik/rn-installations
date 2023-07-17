@@ -65,9 +65,9 @@ While there are ways around this, I think that it’s in every developer’s int
 
 ##### Finally, get your Cocoapods!
 
-Just in case you did a mess before, uninstall whatever you did previously by running sudo __gem uninstall cocoapods__ and then __brew install cocoapods__.
+Just in case you did a mess before, uninstall whatever you did previously by running
 ```
-gem uninstall cocoapods
+sudo gem uninstall cocoapods
 brew install cocoapods
 ```
 
